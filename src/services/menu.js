@@ -1,0 +1,1 @@
+export const menue=[{id:"1", name:"ساخت مخاطب جدید",to:"/AddContact"},{id:"2", name:"درباره ما",to:"/contactinfo"}]
